@@ -100,3 +100,26 @@ There should be good variety of artifacts, each with varying frost ember reward
     - Rewards: **8x Frost Embers**
 - Level 2
   - fuck im out of ideas
+
+## Other Systems
+
+### Gacha for cosmetics.
+
+yee cosmetics wooo.
+
+  - Uses **Amethyst Flowers** to do a "offering" to a shrine. The gods or wahtever respond with cosmetics
+    - Every **5 pulls** guaranteed **4 star** cosmetic
+    - Every **50 pulls** guaranteed **5 star** cosmetic
+    - Soft pity at **40 pulls**
+    - **NEEDS to have cool satisfying animation**
+- Amethyst flowers can be found in the dungeon or crafted from **6 Amethyst shards**
+- Recycling unwanted cosmetics maybe? idk maybe for the future updates, doesnt need to be there for 1.0
+
+### Deck/Player Showcase
+
+Bunch of NPCs around the hub that players can click on and see their deck and stats
+- Will rotate every once in a while (10-15 minutes?)
+- Featured players must have at least once card thats not on starting deck in their deck
+- Featured players must have completed at least 1 dungeon run
+
+Maybe make players also have signatures like in genshin and be able to pin their best cards and artifacts they have found to their profile?
