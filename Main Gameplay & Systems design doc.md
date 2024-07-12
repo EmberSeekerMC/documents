@@ -144,6 +144,12 @@ yee cosmetics wooo.
 - Amethyst flowers can be found in the dungeon or crafted from **6 Amethyst shards**
 - Recycling unwanted cosmetics maybe? idk maybe for the future updates, doesnt need to be there for 1.0
 
+### Leveling
+Honestly, just for flex.
+- Displayed in your nametag (both above the player and in tablist)
+- Displayd in chat prefix
+-  Could also have some level-up rewards like Amethyst shards, flowers, crowns and cosmetics
+
 ### Deck/Player Showcase
 
 Bunch of NPCs around the hub that players can click on and see their deck and stats
