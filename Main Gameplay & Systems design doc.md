@@ -14,6 +14,35 @@ A [Decked Out 2](https://hermitcraft.fandom.com/wiki/Decked_Out_2) insipired rog
 
 ---
 
+### The Dungeon
+
+The dungeon will be randomly generated. There will be two types of dungeons:
+- Weekly Dungeon
+  - The standard dungeon, generated at the start of the week. This will keep the aspect of remembering the dungeon while also not having same dungeon forever
+- Challange Dungeon
+  - Randomly generated dungeon every time its played
+  - Hazard triggers more often 
+  - Aggro-net has increased detection radius
+  - Ravagers do more damage
+  - Less food around the dungeon
+  - Some unique rooms and builds specificaly for this mode
+  - You can bring 3 less cards than to normal dungeon
+  - Rewards and luck of getting good cards at the end greatly increased
+
+**Ideas for more potentional dungeon types in the future (could maybe rotate weekly/monthly):**
+- Timed Dungeon
+  - New dungeon every time
+  - Something between challange dungeon and standard dungeon in terms of difficulty
+  - Central clock like Sands of Time
+  - Find time fragments around the map like treasure and frost embers and bring them to the middle to add more time
+- Coop Dungeon
+  - new dungeon every 2 days
+  - idk just coop, difficulty increased probably 
+  - would need some cool coop elements (portal 2 coop for inspiration)
+- Randomizer Dungeon
+  - Random deck every time
+  - New dungeon every time
+
 ### **__Dungeon Keys__**
 
 Players will spend **1x key** to go into the dungeon
@@ -123,3 +152,14 @@ Bunch of NPCs around the hub that players can click on and see their deck and st
 - Featured players must have completed at least 1 dungeon run
 
 Maybe make players also have signatures like in genshin and be able to pin their best cards and artifacts they have found to their profile?
+
+
+feel free to add any more ideas below
+
+---
+
+## Other Ideas
+
+### Bombs
+- Could be items you find around like treasure and frost embers
+- Would be used for exploding shortcuts through the dungeon and maybe avoid some hazards 
