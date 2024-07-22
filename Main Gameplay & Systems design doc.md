@@ -169,3 +169,21 @@ feel free to add any more ideas below
 ### Bombs
 - Could be items you find around like treasure and frost embers
 - Would be used for exploding shortcuts through the dungeon and maybe avoid some hazards 
+
+## Locations & Map Design
+
+Here are some location ideas:
+
+- Floor 1
+  - **__Deepfrost Caverns__**
+    - Maze-like cave system with few bigger rooms, lot of shortcuts to be blown up
+    - Lot of snow, ice/stone/cobblestone walls, ice stalagtites, Ice crystals
+    - In large rooms, normal ice and reflection of the room (and entities) below it
+    - Smaller explorer-like outposts with some books/lore text  
+    - Snowfall particles
+    - [[ref image]](https://static.wikia.nocookie.net/vault-hunters-s2/images/7/7d/Ice_Cave_Theme.png/revision/latest?cb=20230325121026)
+  - **__Ice-Entombed City__**
+    - one pretty big room with fake sky, ice trees and enterance to the "city". This room can only be spawned once
+    - Tuff as main building block
+    - Murals carved to walls with stuff like big dipper constellation, worshipping the north star as a god etc.
+    - [[ref image]](https://mari_mari.artstation.com/projects/rRyXBe)
