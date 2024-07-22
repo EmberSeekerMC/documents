@@ -186,4 +186,4 @@ Here are some location ideas:
     - one pretty big room with fake sky, ice trees and enterance to the "city". This room can only be spawned once
     - Tuff as main building block
     - Murals carved to walls with stuff like big dipper constellation, worshipping the north star as a god etc.
-    - [[ref image]](https://mari_mari.artstation.com/projects/rRyXBe)
+    - [[ref image]](https://mari_mari.artstation.com/projects/rRyXBe) 
